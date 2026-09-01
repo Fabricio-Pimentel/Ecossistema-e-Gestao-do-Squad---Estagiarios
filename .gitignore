@@ -1,0 +1,11 @@
+.env
+# Arquivo local de variáveis de ambiente - NÃO COMITAR NO GITHUB
+PORT=3000
+NODE_ENV=production
+
+# Conexão com o Banco Cloud (Supabase)
+DB_HOST=aws-us-east-1.supabase.com
+DB_PORT=5432
+DB_USER=admin_gui_pizzas
+DB_PASSWORD=guipizzas123
+DB_NAME=gui_pizzas_db
